@@ -1,0 +1,8 @@
+{
+    "typeCheckingMode": "basic", 
+    "reportUnusedClass": true,
+    "reportUnusedFunction": true,
+    "reportUnusedVariable": "warning",
+    "reportDuplicateClass": "warning",
+    "reportDuplicateFunction": "warning"
+}

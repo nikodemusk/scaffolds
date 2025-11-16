@@ -1,0 +1,9 @@
+
+{
+  "$schema": "https://raw.githubusercontent.com/LuaLS/lua-language-server/master/setting/schema.json",
+  "runtime.version": "Lua 5.4",
+  "diagnostics.disable": [
+    "integer_divide",
+    "lowercase-global"
+  ]
+}

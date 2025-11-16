@@ -1,0 +1,2 @@
+ColumnLimit: 80        # eller valfritt värde
+ReflowComments: true   # ser till att kommentarer radbryts automatiskt
